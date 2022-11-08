@@ -1,1 +1,3 @@
 # Algorithmic-Trading_Quantitative_Momentum_Strategy
+
+A Quantitative Momentum strategy is a strategy implemented to choose stocks that have increased in price the most. Simply speaking, it is the process of identifying stocks with a great uptrend. Now that we have built some understanding of what quantitative momentum strategy is and how it can be used to pick stocks. Let’s implement the strategy in python!
